@@ -4,7 +4,7 @@ We are the RiseAI Systems Team, a young and energetic group dedicated to buildin
 
 ## Repositories
 
-[DAX(Diffusion Accelerated eXecution)](https://github.com/RiseAI-Sys/DAX): High performance inference engine for diffusion models. WIP :construction:
+[DAX(Diffusion Accelerated eXecution)](https://github.com/RiseAI-Sys/DAX): High performance inference engine for diffusion models.
 
 [ParaVAE](https://github.com/RiseAI-Sys/ParaVAE): Distributed parallel 3D-Causal-VAE for efficient training and inference. WIP :construction:
 
