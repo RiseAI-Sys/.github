@@ -8,7 +8,7 @@ We are the RiseAI Systems Team, a young and energetic group dedicated to buildin
 
 [ParaVAE](https://github.com/RiseAI-Sys/ParaVAE): Distributed parallel 3D-Causal-VAE for efficient training and inference.
 
-[attention-gym](https://github.com/RiseAI-Sys/attention-gym): Triton based sparse quantization attention kernel collection. WIP :construction:
+[attention-gym](https://github.com/RiseAI-Sys/attention-gym): Triton based sparse quantization attention kernel collection.
 
 ## Insights
 
